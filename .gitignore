@@ -1,0 +1,9 @@
+# Local settings (contains API key / DB password)
+storage/*
+!storage/.htaccess
+
+# Machine-specific MCP config
+.mcp.json
+
+node_modules/
+.env*

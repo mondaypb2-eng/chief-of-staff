@@ -1,0 +1,3 @@
+<FilesMatch "^(\.mcp\.json|README\.md)$">
+  Require all denied
+</FilesMatch>
